@@ -1,0 +1,3 @@
+"not yet initialiased a git" 
+
+"now initialiased git repository and added the file 1 to staging area"
